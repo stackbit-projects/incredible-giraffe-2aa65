@@ -1,6 +1,6 @@
 ---
 title: Environment Setup
-weight: 2
+weight: 1
 seo:
   title: Quick Start
   description: This is the quick start page
