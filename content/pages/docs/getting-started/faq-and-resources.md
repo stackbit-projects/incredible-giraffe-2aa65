@@ -1,6 +1,6 @@
 ---
 title: FAQ and Resources
-weight: 0
+weight: 4
 excerpt: lorem-ipsum
 seo:
   title: ''
