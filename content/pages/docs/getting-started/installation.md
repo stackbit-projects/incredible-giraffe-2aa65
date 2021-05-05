@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: How it works
 weight: 1
 seo:
   title: Installation
