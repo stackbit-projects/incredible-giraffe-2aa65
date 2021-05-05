@@ -1,6 +1,6 @@
 ---
 title: Product Overview
-weight: 0.1
+weight: 0
 excerpt: lorem-ipsum
 seo:
   title: ''
