@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Product Overview
 weight: 0
 excerpt: lorem-ipsum
 seo:
