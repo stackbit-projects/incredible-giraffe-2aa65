@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How it works
 weight: 0
 excerpt: lorem-ipsum
 seo:
