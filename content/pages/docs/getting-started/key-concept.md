@@ -17,3 +17,15 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 - Lorem ipsum
 - dolor sit amet
 
+---
+title: Key Concept
+weight: 0
+excerpt: lorem-ipsum
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
+layout: docs
+---
