@@ -20,6 +20,7 @@ seo:
     - name: 'twitter:description'
       value: This is the documentation page
 layout: docs
+excerpt: How it works
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
