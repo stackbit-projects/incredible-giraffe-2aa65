@@ -1,5 +1,5 @@
 ---
-title: How it works
+title: Business Rule
 weight: 0
 seo:
   title: Installation
