@@ -1,5 +1,5 @@
 ---
-title: Quick Start
+title: Environment Setup
 weight: 2
 seo:
   title: Quick Start
