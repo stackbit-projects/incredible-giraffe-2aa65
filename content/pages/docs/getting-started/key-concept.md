@@ -10,7 +10,7 @@ seo:
   type: stackbit_page_meta
 layout: docs
 ---
-## Product 
+## Product Overview
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
