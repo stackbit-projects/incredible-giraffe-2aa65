@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Key Concept
 weight: 0
 excerpt: lorem-ipsum
 seo:
